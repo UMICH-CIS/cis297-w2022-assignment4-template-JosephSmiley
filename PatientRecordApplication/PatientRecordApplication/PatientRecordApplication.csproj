@@ -43,7 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="MinBalanceDue.cs" />
+    <Compile Include="FindID.cs" />
+    <Compile Include="DisplayFileInConsole.cs" />
+    <Compile Include="NegNumException.cs" />
+    <Compile Include="Patient.cs" />
+    <Compile Include="FileCreate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
